@@ -2,6 +2,7 @@
 
 ### Contact Information:
 > Mail : o.klymenko.home@gmail.com
+
 > GitHub : [BeMoreHuman](https://github.com/BeMoreHuman)
 
 ### Summary
@@ -28,10 +29,10 @@ Work as frontend developer since 3.01.2018 in Agilie company.
 
 ### Education
 Self-taught.
-Completed Angular course from learnjavascript.
-Completed HTML/CSS/JS Fundamentals course from SoftServe in Dnipro.
-Completed web-developer course from LoftSchool.
-Completed Interactive courses from HTML Academy.
+- Completed Angular course from learnjavascript.
+- Completed HTML/CSS/JS Fundamentals course from SoftServe in Dnipro.
+- Completed web-developer course from LoftSchool.
+- Completed Interactive courses from HTML Academy.
 
 ### English Level
 The last one test gave me pre-intermediate level.

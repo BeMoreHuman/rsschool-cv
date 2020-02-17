@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Roboto&display=swap');
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.content {
+    background-color: #eceeef;
+    max-width: 960px;
+    border-radius: 5px;
+    margin: 25px auto;
+    padding: 20px;
+}
+
+.header-text {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.contacts-container {
+    float: left;
+}
+
+.contact-info {
+    border-left: 3px solid #b1b1b1;
+    margin-left: 20px;
+}
+
+.contact-info p {
+    margin-left: 10px;
+}
+
+.avatar-pic {
+    float: right;
+    width: 250px;
+    border: 2px solid #b4c5c5;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.summary-container {
+    float: left;
+}
+
+.skills-container {
+    clear: both;
+}
+
+pre {
+    background-color: #d3d3d3;
+    border-left: 3px solid #bd9cdb;
+    margin-left: 20px;
+    width: 60%;
+}
+
+section p {
+    margin-left: 10px;
+}
